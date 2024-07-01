@@ -1,5 +1,5 @@
 #include<stdio.h>
-
+using namespace std;
 int search(int arr[],int n,int num)
 {
     int i;
